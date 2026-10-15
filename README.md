@@ -1,8 +1,8 @@
-# 🧩 Labyrinth Nightmare
+# 🧩 Dark Labyrinth
 
 ## 🎮 Overview
 
-**Labyrinth Nightmare** is a puzzle-action game developed in Unity where the player must survive inside a mysterious labyrinth filled with deadly creatures and challenging puzzles.
+**Dark Labyrinth** is a puzzle-action game developed in Unity where the player must survive inside a mysterious labyrinth filled with deadly creatures and challenging puzzles.
 
 Armed only with a gun and their instincts, the hero must explore the maze, solve environmental puzzles, and fight against relentless one-eyed monsters determined to stop their escape.
 
