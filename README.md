@@ -8,6 +8,9 @@ Armed only with a gun and their instincts, the hero must explore the maze, solve
 
 The deeper you go, the more dangerous the labyrinth becomes.
 
+[![Trailer](https://img.youtube.com/vi/CxjPxi41mm0/0.jpg)](https://www.youtube.com/watch?v=CxjPxi41mm0)
+
+
 ---
 ![Gameplay](https://drive.google.com/uc?export=view&id=1c8mmQXNifSUe19WFkiVtIce4fdEO8OwB)
 ---
